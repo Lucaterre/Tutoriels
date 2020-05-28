@@ -1,6 +1,12 @@
-# Tutoriel pour lxml & Flask
+---
+- titre: Exposer un texte structurer en XML sur le web avec XSLT et le framework Python-Flask
+- auteur: Jean-Damien Généro(https://github.com/jeandamien-genero) et Lucas Terriel(https://github.com/Lucaterre)
+- date: 2020-05-28
 
-Contributeurs : [@Lucaterre](https://github.com/Lucaterre), [@jeandamien-genero](https://github.com/jeandamien-genero).
+---
+
+Exposer un texte structurer en XML sur le web avec XSLT et le framework Python-Flask
+-----------------------
 
 Ce tutoriel a pour but d'expliquer comment afficher le contenu d'un document XML dans une application Flask via la librairie lxml.
 
